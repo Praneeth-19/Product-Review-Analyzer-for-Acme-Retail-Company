@@ -1,5 +1,5 @@
 # Acme Product Review Analyzer
-An AI-powered tool that analyzes customer reviews for sentiment, topic, and su
+An AI-powered tool that analyzes customer reviews for sentiment, topic, and support, and logistics.
 ## Features
 - Upload CSVs of product reviews
 - Automatically classify sentiment (Positive, Neutral, Negative)
